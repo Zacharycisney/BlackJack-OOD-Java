@@ -50,7 +50,7 @@ class Card {
         this.suit = suit;
         this.value = value;
         this.symbol = symbol;
-    }
+    } //change to setCard()
 
 
     public String getSuit() {return suit;}
