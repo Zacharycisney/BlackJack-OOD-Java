@@ -18,8 +18,7 @@ public class Run {
             Creation.printDeck(deck);
 
 
-
-
+            Stats.runTheNumbers(deck);
 
 
         }
